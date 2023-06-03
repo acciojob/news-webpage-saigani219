@@ -18,15 +18,18 @@
 	text-align : center;
     padding : 30px;
 }
-#item1{
+.latest-news-section{
+	text-align:center;
     height : 200px;
     flex-basis: 20%;
 }
 #item2{
+	text-align:center;
     height : 200px;
     flex-basis: 40%;
 }
-#item3{
+.pictorial-news-section{
+	text-align:center;
     flex-basis: 20%;
 }
 .flexitems{
